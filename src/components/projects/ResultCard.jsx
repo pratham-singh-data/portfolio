@@ -13,9 +13,9 @@ export const ResultCard = ({data}) => {
                     <Typography variant="h5" sx={{color: "#272727"}}>{data.name}</Typography>
 
                     <Box sx={{mb: "5px"}}>
-                        {data.categoryNames.map(entry => {
+                        {data.categoryNames.map((entry, index )=> {
                             return(
-                                <Typography sx={{backgroundColor: "#5e17eb", color: "#ffffff", opacity: "0.8", display: "inline", padding: "5px", mr: "5px", borderRadius: "10px"}}>{entry}</Typography>
+                                <Typography key={index} sx={{backgroundColor: "#5e17eb", color: "#ffffff", opacity: "0.8", display: "inline", padding: "5px", mr: "5px", borderRadius: "10px"}}>{entry}</Typography>
                             )
                         })}
                     </Box>

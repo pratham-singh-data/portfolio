@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Face Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+This a portfolio site for Pratham Singh and gives a brief profile, showcases all certificates of the creator, all projects and contact information.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+1. Full webapp is responsive and built using MaterialUI and React.
 
-### `npm start`
+2. The homepage has a brief profile followed by a carousel of all certificates given to Pratham Singh arranged in a carousel.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. Clicking on any certificate will open a modal that shows that certificate in an enhanced view.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+4. Projects page allows user to filter by categories or search any project they wish to explore further.
 
-### `npm test`
+5. Clicking on any project transfers to a deployed site whereas clicking on "View Source" takes the user to the github repository associated with that entry.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+6. Contact page transfers to another page with contact information of the creator.
 
-### `npm run build`
+## Attributions
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. `geralt` : background.jpg was obtained from them through Pixabay.com. (https://pixabay.com/users/geralt-9301/)
+2. `Pixel Perfect` : android.png was obtained from them through flaticon.com. (https://www.flaticon.com/authors/pixel-perfect)
+3. `Freepik` : all.png image was given by them. (https://www.flaticon.com/authors/freepik)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Deployment
+Application is deployed at:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+https://pratham-singh-data.github.io/portfolio/
 
-### `npm run eject`
+## Source Code
+Source Code is present at:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+https://github.com/pratham-singh-data/portfolio
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contact Details
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Name: Pratham Singh
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+E Mail: PrathamSinghCE@gmail.com

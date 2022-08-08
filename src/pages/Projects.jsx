@@ -1,10 +1,10 @@
-import React from 'react'
-import { ProjectsPage } from '../components/projects/ProjectsPage'
+import React from "react";
+import { ProjectsPage } from "../components/projects/ProjectsPage";
 
 export const Projects = () => {
   return (
     <div>
-      <ProjectsPage/>
+      <ProjectsPage />
     </div>
-  )
-}
+  );
+};

@@ -12,15 +12,15 @@ export const Header = () => {
             
 
             <Box sx={{display: "flex", flexDirection: "row"}}>
-                <NavLink to="/" style={{display: "inline", color: "inherit", textDecoration: "none"}}>
+                <NavLink to="/portfolio/" style={{display: "inline", color: "inherit", textDecoration: "none"}}>
                     <Typography sx={{mr: "10px"}}>Home</Typography>
                 </NavLink>
 
-                <NavLink to="/projects" style={{display: "inline", color: "inherit", textDecoration: "none"}}>
+                <NavLink to="/portfolio/projects" style={{display: "inline", color: "inherit", textDecoration: "none"}}>
                     <Typography sx={{mr: "10px"}}>Projects</Typography>
                 </NavLink>
 
-                <NavLink to="/contact" style={{display: "inline", color: "inherit", textDecoration: "none"}}>
+                <NavLink to="/portfolio/contact" style={{display: "inline", color: "inherit", textDecoration: "none"}}>
                     <Typography sx={{mr: "10px"}}>Contact</Typography>
                 </NavLink>
             </Box>

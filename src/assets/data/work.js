@@ -59,7 +59,7 @@ export const WorkData = [
     {
         "id": 5,
         "categories": [1],
-        "name": "Realtor",
+        "name": "Wallpapar Switcher",
         "categoryNames": ["Android"],
         "link": "https://github.com/pratham-singh-data/wallpaper-switcher",
         "source": "https://github.com/pratham-singh-data/wallpaper-switcher",

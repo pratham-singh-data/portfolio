@@ -12,7 +12,7 @@ export const CertificateData = [
 
     {
         id: 2,
-        name: "Data Analyst Web Developer",
+        name: "Data Analyst",
         company: "ShapeAI (now DevTown)",
         image: DataAnalystIMG
     },

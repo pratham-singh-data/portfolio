@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.33a84b43.js",
+    "static/media/WallpaperSwitcher.jpg": "/portfolio/static/media/WallpaperSwitcher.fd1688c2de19fe729efb.jpg",
+    "static/media/Realtor.png": "/portfolio/static/media/Realtor.c9a135d1a527dc370a75.png",
+    "static/media/background.jpg": "/portfolio/static/media/background.440f6812f2b3bb9bfc92.jpg",
+    "static/media/NewsfeedAndroid.jpg": "/portfolio/static/media/NewsfeedAndroid.88726ef98ed763e97b7b.jpg",
+    "static/media/Movieman.png": "/portfolio/static/media/Movieman.98bb0faf010f9d079e0e.png",
+    "static/media/GoldsGym.png": "/portfolio/static/media/GoldsGym.9f54f044e166914e6d72.png",
+    "static/media/TopSeller.png": "/portfolio/static/media/TopSeller.9c1be0257e7b32cd5269.png",
+    "static/media/Full Stack.png": "/portfolio/static/media/Full Stack.0294621ac24dc3270aaa.png",
+    "static/media/Data Analyst.png": "/portfolio/static/media/Data Analyst.5b8cdda54753738adaf0.png",
+    "static/media/React.png": "/portfolio/static/media/React.22fd923d97569b3208dc.png",
+    "static/media/all.png": "/portfolio/static/media/all.3698f9d8400b25acd542.png",
+    "static/media/Logo.png": "/portfolio/static/media/Logo.008f55503c59e8a72159.png",
+    "static/media/react.png": "/portfolio/static/media/react.2a3fd39f033a6b95809e.png",
+    "static/media/android.png": "/portfolio/static/media/android.89fe62949d3bc9befac2.png",
+    "index.html": "/portfolio/index.html",
+    "main.33a84b43.js.map": "/portfolio/static/js/main.33a84b43.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.33a84b43.js"
+  ]
+}

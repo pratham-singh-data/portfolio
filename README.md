@@ -1,4 +1,4 @@
-# Face Assignment
+# Portfolio
 
 ## Overview
 This a portfolio site for Pratham Singh and gives a brief profile, showcases all certificates of the creator, all projects and contact information.
